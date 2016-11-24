@@ -1,0 +1,14 @@
+{
+  "name": "req-header-parser-challenge",
+  "version": "1.0.0",
+  "description": "Request Header Parser ",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Practicous",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
